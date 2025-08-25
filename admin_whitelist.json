@@ -1,0 +1,4 @@
+{
+  "allowed_users": ["YourVoiceProfile"],
+  "dangerous_commands": ["shutdown", "format", "registry"]
+}

@@ -1,0 +1,71 @@
+{
+  "teams": {
+    "path": "C:\\Program Files\\WindowsApps\\MicrosoftTeams_25072.1501.3493.5261_x64__8wekyb3d8bbwe\\msteams.exe",
+    "requires_admin": false,
+    "last_used": "2025-06-01 01:53:46.858332"
+  },
+  "file": {
+    "path": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Host.win-arm\\5.0.17\\runtimes\\win-arm\\native\\singlefilehost.exe",
+    "last_used": "2025-06-01 01:24:04.218263"
+  },
+  "chrome": {
+    "path": "chrome.exe",
+    "requires_admin": false,
+    "last_used": "2025-06-01 02:00:10.447437"
+  },
+  "age": {
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\(Default)\\ServiceManager.lnk",
+    "requires_admin": false,
+    "last_used": "2025-06-01 02:00:34.456088"
+  },
+  "firefox": {
+    "path": "firefox.exe",
+    "requires_admin": false,
+    "last_used": "2025-06-01 02:00:49.815806"
+  },
+  "brave": {
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Brave.lnk",
+    "requires_admin": false,
+    "last_used": "2025-06-01 02:01:12.597426"
+  },
+  "settings": {
+    "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\Common7\\IDE\\Extensions\\TestPlatform\\SettingsMigrator.exe",
+    "requires_admin": false,
+    "last_used": "2025-06-02 10:24:33.582292"
+  },
+  "outlook": {
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Outlook (classic).lnk",
+    "requires_admin": false,
+    "last_used": "2025-06-01 02:01:51.839750"
+  },
+  "wps": {
+    "path": "C:\\Users\\DhruvilGajera\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\WPS Office.lnk",
+    "requires_admin": false,
+    "last_used": "2025-06-04 19:33:56.272913"
+  },
+  "w": {
+    "path": "C:\\Users\\DhruvilGajera\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MaxxAudio Pro by Waves \u2013 Speaker and Microphone Audio Control and Nx 3D Sound.lnk",
+    "requires_admin": false,
+    "last_used": "2025-06-01 02:03:02.254635"
+  },
+  "visual studio code": {
+    "path": "C:\\Users\\DhruvilGajera\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+    "requires_admin": true,
+    "last_used": "2025-06-04 19:43:28.794140"
+  },
+  "2022": {
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Blend for Visual Studio 2022.lnk",
+    "requires_admin": false,
+    "last_used": "2025-06-01 02:06:21.752144"
+  },
+  "studio": {
+    "path": "C:\\Users\\DhruvilGajera\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+    "requires_admin": false,
+    "last_used": "2025-06-01 02:07:56.271312"
+  },
+  "visual": {
+    "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\Common7\\IDE\\Microsoft.VisualStudio.Web.Host.exe",
+    "requires_admin": false,
+    "last_used": "2025-06-04 00:43:28.098844"
+  }
+}
